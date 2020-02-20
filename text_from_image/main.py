@@ -95,11 +95,12 @@ def get_all_images_from_directory(source_dir):
 
 def main():
     # images_dir = os.path.join(os.getcwd(), 'images')
+    # images_dir = "/Users/sriramk/Downloads/images"
     # all_image_files = get_all_images_from_directory(images_dir)
-
+    #
     # for image_file in all_image_files:
     #     extract_text_from_image(os.path.join(images_dir, image_file))
-    extract_text_from_image('/home/krishnan/Projects/Grange/Python/text_from_image/images/FortnerGrades.png')
+    extract_text_from_image('/Users/sriramk/Downloads/images/Meghan report card.jpg')
 
 if __name__ == "__main__":
     main()
