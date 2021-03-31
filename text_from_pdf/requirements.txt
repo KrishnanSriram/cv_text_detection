@@ -48,7 +48,7 @@ langtable==0.0.51
 lazy-object-proxy==1.4.3
 libcomps==0.1.14
 linecache2==1.0.0
-lxml==4.4.0
+lxml==4.6.3
 Mako==1.1.0.dev0
 MarkupSafe==1.1.1
 mccabe==0.6.1
