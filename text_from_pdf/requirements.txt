@@ -52,7 +52,7 @@ lxml==4.4.0
 Mako==1.1.0.dev0
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mod-wsgi==4.6.6
+mod-wsgi==4.9.3
 more-itertools==8.1.0
 ntplib==0.3.3
 olefile==0.46
